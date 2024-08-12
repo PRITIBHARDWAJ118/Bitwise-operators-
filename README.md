@@ -17,19 +17,18 @@ Bitwise operators in C++ perform operations on individual bits of integer data t
 5. **Left Shift (`<<`)**: Shifts bits of a number to the left by a specified number of positions, filling with zeros.
    
 6. **Right Shift (`>>`)**: Shifts bits of a number to the right by a specified number of positions.
-   ```cpp
+   
   
-
-### Applications:
+  ### Applications:
 - **Bitwise AND** is used in bit masking.
 - **Bitwise OR** is used to set specific bits.
 - **Bitwise XOR** is used to toggle bits.
 - **Bitwise NOT** is used for bitwise inversion.
 - **Shift operators** are used for efficient multiplication or division by powers of 2.
 These operators enable precise and efficient control over individual bits within an integer.
-#### incluse<bitset>:
+#### include bitset:
 In C++, #include <bitset> allows you to use the bitset class, which represents a fixed-size sequence of bits (binary digits). It's useful for manipulating individual bits in a compact and efficient way.
-#### cout<<boolaplha: 
+#### cout boolaplha: 
 cout << boolalpha; in C++ is used to format the output of boolean values. When boolalpha is set, true and false are printed as "true" and "false" instead of 1 and 0.
 
 
