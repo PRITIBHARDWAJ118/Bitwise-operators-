@@ -33,8 +33,15 @@ cout << boolalpha; in C++ is used to format the output of boolean values. When b
 
 
 ### Output:
+
+1. Bitwise operators
+   
+
 ![Screenshot 2024-08-12 071107](https://github.com/user-attachments/assets/c6eee0c3-bce4-48ec-937d-bf07998d4722)
 
+2. Bitset
+
+   ![image](https://github.com/user-attachments/assets/691f7360-e974-41a1-af35-5ffa9a70fce0)
 
 ### Conclusion:
  We leant about Bitwise operators and it's applications.
